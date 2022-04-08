@@ -22,3 +22,4 @@ I una mica de codi `html`:
     </body>
 </html>
 ```
+![Gatito](cat.jpeg)
